@@ -1,6 +1,6 @@
 # Courier Firm DB - SQL Project
 
-This project simulates the database a courier firm, focusing on managing packages, deliveries, customers, and couriers. The project uses SQL scripts to create and manage the database, and includes a simple Java application to demonstrate database interaction.
+This project simulates the database of a courier firm, focusing on managing packages, deliveries, customers, and couriers. The project uses SQL scripts to create and manage the database, and includes a simple Java application to demonstrate database interaction.
 
 ## Project Structure
 
