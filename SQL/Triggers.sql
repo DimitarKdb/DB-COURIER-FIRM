@@ -1,5 +1,3 @@
-set schema FN24_8MI0400006;
-
 --1
 CREATE OR REPLACE TRIGGER SetDefaultDeliveryStatus
 BEFORE INSERT ON Packages

@@ -1,4 +1,3 @@
-set schema FN24_8MI0400006;
 
  CREATE TABLE Customers (
 

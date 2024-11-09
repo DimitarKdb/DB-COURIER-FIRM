@@ -1,5 +1,3 @@
-set schema FN24_8MI0400006;
-
 --1
 CREATE VIEW PackageDetails AS
 SELECT P.PACKAGE_ID,

@@ -1,5 +1,3 @@
-set schema FN24_8MI0400006;
-
 -- Insert data into Customers table
 INSERT INTO Customers (UCN, ADDRESS, PHONE_NUMBER, FIRST_NAME, LAST_NAME)
 VALUES
